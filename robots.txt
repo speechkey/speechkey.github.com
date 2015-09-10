@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: /assets/
-Disallow: /tag/
-Disallow: /theme/
+Disallow: /
+Allow: /assets/
