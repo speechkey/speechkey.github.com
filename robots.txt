@@ -1,5 +1,8 @@
 User-agent: Googlebot
+Disallow: /cv.html
 
 User-agent: Twitterbot
+Disallow: /cv.html
 
 User-agent: Facebot
+Disallow: /cv.html
