@@ -16,4 +16,8 @@
 		<loc>http://www.artemgrebenkin.com/projects.html</loc>
 		<priority>1.0</priority>
 	</url>
+	<url>
+		<loc>http://www.artemgrebenkin.com/impressum.html</loc>
+		<priority>1.0</priority>
+	</url>
 </urlset>
